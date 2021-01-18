@@ -5,7 +5,7 @@
 
 ### Installation
 - Open terminal
-- Run `git clone url`
+- Run `git clone https://github.com/micaelagoffe/given-design.git`
 - Run `npm install`
 - Open index.html
 
