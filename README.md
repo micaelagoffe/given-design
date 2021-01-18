@@ -1,5 +1,5 @@
 # A given design
-*School project made from a given design.*
+*School project made from a given design using gulp.*
 
 ---
 
