@@ -7,6 +7,10 @@
 - Open terminal
 - Run `git clone https://github.com/micaelagoffe/given-design.git`
 - Run `npm install`
+- Run `npm i gulp`
+- Run `npm i gulp-sass`
+- Run `npm i gulp-csso`
+- Run `npm i gulp-rename`
 - Run `gulp`
 - Open index.html
 
