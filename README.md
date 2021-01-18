@@ -7,6 +7,7 @@
 - Open terminal
 - Run `git clone https://github.com/micaelagoffe/given-design.git`
 - Run `npm install`
+- Run `gulp`
 - Open index.html
 
 ---
